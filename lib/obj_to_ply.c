@@ -120,6 +120,17 @@ int main(int argc, char *argv[])
   Author:
 
     Greg Turk
+
+  Usage:
+
+      obj_to_ply [flags] < file.obj > file.ply
+
+    where
+      file.obj is the OBJ file to be read;
+      file.ply is the PLY file to be created;
+
+    Note that the "-f" flag flips the vertex order in polygons.
+
 */
 {
   int i;

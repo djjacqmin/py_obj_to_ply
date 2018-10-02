@@ -8,10 +8,10 @@ The purpose of this work is to create a Python interface to the original C code 
 
 The original code written by Greg Turk contains the following text:
 
-> Copyright (c) 1998 Georgia Institute of Technology.  All rights reserved.
-> 
+> Copyright (c) 1998 Georgia Institute of Technology. All rights reserved.
+>
 > Permission to use, copy, modify and distribute this software and its
-> documentation for any purpose is hereby granted without fee, provided 
+> documentation for any purpose is hereby granted without fee, provided
 > that the above copyright notice and this permission notice appear in
 > all copies of this software and that you do not sell the software.
 >
