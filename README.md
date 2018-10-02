@@ -1,4 +1,4 @@
-# obj_to_ply_py
+# py_obj_to_ply
 
 OBJ_TO_PLY is a C program which converts an Alias OBJ file to a PLY file. It was written by Greg Turk. You can find the source code and samples files [here](https://people.sc.fsu.edu/~jburkardt/c_src/obj_to_ply/obj_to_ply.html).
 
